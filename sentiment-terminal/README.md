@@ -1,9 +1,5 @@
 # IPO Sentiment & Market Context Terminal
 
-> **v5** — auth-free historical news (Google News RSS replaces BigQuery),
-> stricter relevance filter, corpus-level FRES, always-on LLM summaries,
-> inline date picker for live analysis. See `CHANGES_v5.md` for details.
-
 End-to-end pipeline + dashboard for Indian IPOs (2010 → present), with strict
 T-1 IST cutoff to prevent look-ahead bias.
 
