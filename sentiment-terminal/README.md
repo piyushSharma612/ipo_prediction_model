@@ -6,7 +6,7 @@ T-1 IST cutoff to prevent look-ahead bias.
 ## Architecture
 
 ```
-data/Initial_Public_Offering.xlsx          ← YOUR master spreadsheet
+data/Initial_Public_Offering.xlsx        
               │
               ▼
 orchestrator.py ─── workers/sentiment_worker.py ──┐
